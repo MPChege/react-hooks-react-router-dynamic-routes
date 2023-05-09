@@ -6,7 +6,7 @@ import Home from "./Home";
 import Actors from "./Actors";
 import Directors from "./Directors";
 import Movies from "./Movies";
-// import './App.css'
+import './App.css'
 
 function App() {
   return (
